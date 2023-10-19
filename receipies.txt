@@ -1,0 +1,5 @@
+receipe name : biriyani
+
+integridents : rice :1 kg
+               ghee: 100g
+               onion  :1 kg
